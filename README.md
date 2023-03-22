@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kimseongyu/kimseongyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# Kim seon gyu 😀
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimseongyu&count_bg=%23BA2EFF&title_bg=%23572FFF&icon=&icon_color=%23D3D3D3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 ![Kimseongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseongyu&show_icons=true&bg_color=00000000)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ays0321)](https://solved.ac/ays0321/)
+<br>
+## 📫 Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksk85628781@gmail.com)](mailto:ksk85628781@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kskksk0925@naver.com)](mailto:kskksk0925@naver.com)
