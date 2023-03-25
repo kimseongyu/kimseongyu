@@ -2,7 +2,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kimseongyu&show_icons=true&bg_color=00000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimseongyu&layout=compact&hide=html,make)](https://github.com/kimseongyu"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimseongyu&layout=compact&hide=html,cmake"/>
 </div>
 <div align="left">
   <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ays0321"/>
