@@ -1,4 +1,4 @@
-<h1> Kim seon gyu 😀 <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimseongyu&count_bg=%23BA2EFF&title_bg=%23572FFF&icon=&icon_color=%23D3D3D3&title=hits&edge_flat=false"/></h1>
+<h1> Seongyu Kim😀 <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimseongyu&count_bg=%23BA2EFF&title_bg=%23572FFF&icon=&icon_color=%23D3D3D3&title=hits&edge_flat=false"/></h1>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kimseongyu&show_icons=true&bg_color=00000000"/>
